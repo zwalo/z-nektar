@@ -1,4 +1,4 @@
-module github.com/zwalo/mono
+module github.com/zwalo/z-nektar
 
 go 1.20
 
