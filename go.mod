@@ -1,4 +1,4 @@
-module github.com/zzase/mono
+module github.com/zwalo/mono
 
 go 1.20
 
